@@ -17,15 +17,16 @@ x = PostixAssignmentSolver()
 x.solveInfixToPostfix(question)
 ```
 
-
+<br><br>
 And it would solve all the questions, and make a word doc for each question in your current directory like this:
 <br>
 ![image](https://github.com/user-attachments/assets/8de39d83-3865-46f0-b131-f7b54f40afef)
-
+<br>
 <br>
 
 And the word file would look like this:
 ![image](https://github.com/user-attachments/assets/fd522448-b07c-41f9-b49e-99360c00e1d1)
+<br>
 <br>
 You can make changes to the table or rows however you want by tweaking some things in the original code
 
