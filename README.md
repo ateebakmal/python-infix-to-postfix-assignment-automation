@@ -2,7 +2,7 @@
 
 #### Had a DSA Assignment which contained a lot of infix to postfix conversion questions and i had to show all the steps. Making tables for each question was tedious and boring so I decided to automate this stuff using python and `docx` library.
 
-#### To use this library:
+#### To use this code:
 - clone this repo or copy my code into some python file
 - import it into another file
 - make a list which contains all the questions in string format
